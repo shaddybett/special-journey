@@ -1,2 +1,2 @@
 # special-journey
-my first repo
+my first repo.
